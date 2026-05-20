@@ -1,116 +1,97 @@
-schema: hugoblox/author/v1
-slug: me
+schema: "hugoblox/author/v1"
+slug: "me"
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+  display: "Mohammad Mahdi Sayyadnejad"
+  given: "Mohammad Mahdi"
+  family: "Sayyadnejad"
+  alternate: "Mehdi"
+  pronunciation: ""
+  pronouns: "he/him"
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
-bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
-
-affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
-
+  icon: "👨‍💻"
+role: "Software Engineer"
+bio: "Mohammad Mahdi Sayyadnejad is a Researcher in the Department of Computer Science and Engineering and IT at Shiraz University (Shiraz, Iran) and an IT Expert at Kharazmi University (Tehran, Iran). He holds a Master’s degree in Software Engineering from Shiraz University and a Bachelor’s degree in Computer Engineering from Islamic Azad University. His research interests include software engineering, empirical studies, mining software repositories, explainable artificial intelligence, and AI ethics."
+affiliations: []
 links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
-
+  - icon: "hero/at-symbol"
+    url: "mailto:mmehdisayyad@gmail.com"
+    label: "Email"
+  - icon: "brands/github"
+    url: "https://github.com/mehdisn"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?user=mXKXjXEAAAAJ&hl=en"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0009-0002-9747-1839"
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
-
+  - "Python"
+  - "Empirical Software Engineering"
+  - "SE4AI"
+  - "AI4SE"
+  - "NLP (LLM, Transformers, HuggingFace, Spacy, & NLTK)"
+  - "Topic Modeling (LDA, BERTopic, NMF)"
+  - "Web Development (FastAPI, Spring, JavaScript)"
+  - "Explainable AI"
+  - "Business Intelligence (Data pipeline, Data Warehouse, Visualizations)"
+  - "Latex"
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
-
+  - degree: "MSC in Software Engineering"
+    institution: "Shiraz University"
+    start: "Sept, 2021"
+    end: "Sept, 2024"
+    summary: "Thesis: Identifying the Challenges of Developing Explainable AI Systems Using User Questions in Q&A Forums through Topic Modeling Algorithms."
+  - degree: "Bachelor Of Science in Software Engineering"
+    institution: "Islamic Azad University Karaj Branch"
+    start: "Sept, 2016"
+    end: "May, 2021"
+    summary: ""
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
+  - role: "It Expert"
+    org: "Kharazmi University"
+    start: "Feb, 2025"
+    end: ""
+    summary: ""
+  - role: "Research Assistant "
+    org: "Shiraz University"
+    start: "Jun, 2022"
+    end: "Sept, 2024"
+    summary: ""
+  - role: "Web Developer"
+    org: "Abriday"
+    start: "Nov, 2022"
+    end: "Mar, 2023"
+    summary: ""
+  - role: "IT Help Desk"
+    org: "Kasra CE"
+    start: "Apr, 2019"
+    end: "Sept, 2019"
+    summary: ""
 skills:
-  - name: Technical Skills
+  - name: "Technical Skills"
     items:
-      - label: Python
+      - label: "Python"
         level: 5
-      - label: Machine Learning
+      - label: "Machine Learning"
         level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
+      - label: "Deep Learning"
+        level: 3
+      - label: "Research"
+        level: 3
+  - name: "Research & Communication"
     items:
-      - label: Academic Writing
+      - label: "Academic Writing"
         level: 5
-      - label: Conference Presentations
+      - label: "Conference Presentations"
         level: 4
-      - label: Grant Proposals
-        level: 4
-
 languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
-
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+  - name: "Persian"
+    level: null
+    label: "Native"
+  - name: "English"
+    level: null
+    label: "B2"
+awards: []
+ids:
+  google_scholar: "mXKXjXEAAAAJ"
+  orcid: "0009-0002-9747-1839"
+  research_gate: "Mohammad-Sayyadnejad"
