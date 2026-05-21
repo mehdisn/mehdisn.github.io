@@ -16,6 +16,7 @@ sections:
     design:
       view: article-grid
       fill_image: false
+      show_image: false
       columns: 3
       show_date: false
       show_read_time: false
