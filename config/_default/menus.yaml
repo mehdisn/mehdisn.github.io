@@ -10,7 +10,7 @@ main:
     weight: 10
   - name: Papers
     identifier: 30c23c4a
-    url: /#papers
+    url: /publications
     weight: 20
   - name: Experience
     identifier: eb604d68
@@ -20,7 +20,7 @@ main:
     identifier: 3100db54
     url: projects/
     weight: 40
-  - name: Courses
-    identifier: 81378c78
-    url: courses/
-    weight: 50
+  # - name: Courses
+  #   identifier: 81378c78
+  #   url: courses/
+  #   weight: 50

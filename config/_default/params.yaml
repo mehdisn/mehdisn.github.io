@@ -21,10 +21,10 @@ hugoblox:
     avatar_shape: circle
   header:
     enable: true
-    style: navbar-simple
+    style: navbar
     sticky: true
     align: center
-    search: true
+    search: false
     theme_toggle: true
   footer:
     style: minimal
