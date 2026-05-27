@@ -3,7 +3,7 @@ title: Market Basket Analysis with Apriori Algorithm
 date: 2022-05-30
 draft: false
 links:
-  - type: site
+  - type: repository
     url: "https://github.com/mehdisn/apriori-market-basket-analysis"
 tags:
   - Research Toolkit

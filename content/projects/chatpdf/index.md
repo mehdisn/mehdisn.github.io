@@ -4,7 +4,7 @@ date: 2026-02-26
 draft: false
 links:
   - type: repository
-    url: https://github.com/pytorch/pytorch
+    url: https://github.com/mehdisn/chatpdf
 tags:
   - Open Source
 status: published
