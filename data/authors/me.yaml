@@ -11,7 +11,16 @@ name:
 status:
   icon: "👨‍💻"
 role: "Software Engineer"
-bio: "Mohammad Mahdi Sayyadnejad is a Researcher in the Department of Computer Science and Engineering and IT at Shiraz University (Shiraz, Iran) and an IT Expert at Kharazmi University (Tehran, Iran). He holds a Master’s degree in Software Engineering from Shiraz University and a Bachelor’s degree in Computer Engineering from Islamic Azad University. His research interests include software engineering, empirical studies, mining software repositories, explainable artificial intelligence, and AI ethics."
+bio: >-
+  I am a Software Engineer and Researcher working at the intersection of Software Engineering
+  and Artificial Intelligence. My research interests include Empirical Software Engineering,
+  Mining Software Repositories, AI for Software Engineering, and Natural Language Processing.
+  I work on applying data-driven approaches, machine learning, and large-scale software
+  repository analysis to understand software development practices and build intelligent
+  software systems. My research focuses on understanding software ecosystems through
+  empirical studies and developing AI-driven approaches to improve software development.
+  My work has been published in Empirical Software Engineering (EMSE) and presented
+  at ICSE.
 affiliations: []
 links:
   - icon: "hero/at-symbol"
@@ -19,6 +28,8 @@ links:
     label: "Email"
   - icon: "brands/github"
     url: "https://github.com/mehdisn"
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/mahdi-sayyadnejad-8b8966420/"
   - icon: "academicons/google-scholar"
     url: "https://scholar.google.com/citations?user=mXKXjXEAAAAJ&hl=en"
   - icon: "academicons/orcid"
@@ -26,14 +37,14 @@ links:
 interests:
   - "Python"
   - "Empirical Software Engineering"
+  - "Mining Software Repositories"
   - "SE4AI"
   - "AI4SE"
   - "NLP (LLM, Transformers, HuggingFace, Spacy, & NLTK)"
   - "Topic Modeling (LDA, BERTopic, NMF)"
   - "Web Development (FastAPI, Spring, JavaScript)"
   - "Explainable AI"
-  - "Business Intelligence (Data pipeline, Data Warehouse, Visualizations)"
-  - "Latex"
+  - "Data Engineering (Data pipeline, Data Warehouse, Visualizations)"
 education:
   - degree: "MSC in Software Engineering"
     institution: "Shiraz University"

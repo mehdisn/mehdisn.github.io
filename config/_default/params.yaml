@@ -42,3 +42,10 @@ hugoblox:
       enable: true
   search:
     enable: true
+  seo:
+    title: Mohammad Mahdi Sayyadnejad
+  verification:
+    google: PE7kAIHQsXn0ZQvEma_9Nk6KFZvNRmcrGyuY6QutecQ
+  analytics:
+    google_tag_manager:
+      container_id: GTM-T2ZL2NGX
